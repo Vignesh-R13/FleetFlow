@@ -1,0 +1,21 @@
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Node dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+coverage/
+.playwright/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
